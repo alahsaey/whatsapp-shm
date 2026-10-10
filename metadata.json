@@ -1,0 +1,6 @@
+{
+  "name": "مراسلات واتساب | WhatsApp Correspondence DB",
+  "description": "نظام وقاعدة بيانات مراسلات واتساب لإدارة طابور الإرسال (Outbox & Queue)، سجل الحالة (Delivery Status)، إدارة القوالب والمتغيرات ومحرك الاتصال المباشر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
